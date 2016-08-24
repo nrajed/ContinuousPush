@@ -1,0 +1,1 @@
+First text file to be pushed. Initialized git dir on cmd line and wrote up text file in vim.
